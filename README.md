@@ -1,4 +1,5 @@
-# Sars-CoV-2: Genome Assembly and Annotation
+# Sars-CoV-2: Assemblaggio e annotazione del genoma
 [a.a. 23/24] M. Gambardella
 
-The assignment was executed in Galaxy, following Phillip Compeau's guidelines from his Great Ideas in Computational Biology course. You can refer to the report "TesinaSFPB" and to some demo videos, both contained in the "deliverables" folder.
+Il progetto è stato eseguito nella piattaforma Galaxy, seguendo le linee guida di Phillip Compeau dal suo corso Great Ideas in Computational Biology. Per tutti i dettagli è possibile far riferimento al documento "TesinaSFPB" e ai video di demo, entrambi contenuti nella cartella "deliverables".
+
